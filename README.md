@@ -1,2 +1,2 @@
 # proposal page
-# https://anuragproposal.netlify.app/
+ https://anuragproposal.netlify.app/
